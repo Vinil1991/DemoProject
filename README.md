@@ -2,7 +2,7 @@ Welcome to the AWS CodeStar sample web application
 ==================================================
 
 This sample code helps get you started with a simple Go web application deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
-
+Hello we are learning
 What's Here
 -----------
 
